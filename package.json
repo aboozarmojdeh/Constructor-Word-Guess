@@ -1,0 +1,24 @@
+{
+  "name": "constructor-word-guess",
+  "version": "1.0.0",
+  "description": "word guess constructor",
+  "main": "index.js",
+  "dependencies": {
+    "inquirer": "^6.0.0",
+    "require": "^2.4.20"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aboozarmojdeh/Constructor-Word-Guess.git"
+  },
+  "author": "Aboozar Mojdeh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aboozarmojdeh/Constructor-Word-Guess/issues"
+  },
+  "homepage": "https://github.com/aboozarmojdeh/Constructor-Word-Guess#readme"
+}
